@@ -5,30 +5,30 @@
        "KENYANS ONLY| TILL NO":"8334020"
     },
      {
-        "TILL NO MEMBERSHIP": "AMOUNT", "KSH": "250/=",  "odds":"32 SURE ODDS DAILY"
+        "TILL NO MEMBERSHIP": "AMOUNT", "KSH": "250/=",  "ODDS":"32 SURE ODDS DAILY"
      }
     {
-        "PAYPAL MEMBERSHIP": "AMOUNT", "USD": "$15", "odds":"32 SURE ODDS DAILY"
+        "PAYPAL MEMBERSHIP": "AMOUNT", "USD": "$15", "ODDS":"32 SURE ODDS DAILY"
      }
 ],
  "PREMIUM PREDICTION":[
          {
-            "fixture": "Malmö FF – Union Berlin",
-            "prediction": "XX"
+            "FIXTURE": "Malmö FF – Union Berlin",
+            "PREDICTION": "XX"
         },
         
         {
-            "fixture": "Sturm Graz – Lazio",
-            "prediction": "XX"
+            "FIXTURE": "Sturm Graz – Lazio",
+            "PREDICTION": "XX"
         },
         
      {
-            "fixture": "Arsenal – Bodø/Glimt",
-            "prediction": "XX"
+            "FIXTURE": "Arsenal – Bodø/Glimt",
+            "PREDICTION": "XX"
         },
         {
-            "fixture": "AZ – Apollon Limassol",
-            "prediction": "XX"
+            "FIXTURE": "AZ – Apollon Limassol",
+            "PREDICTION": "XX"
          }
      ],
  "TELEGRAM CHANNEL":[
