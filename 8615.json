@@ -1,86 +1,39 @@
 {"SUBSCRIPTIONS":[
     {
-       "name": "BASIC SURE TIPS", "amount": "Ksh 99" , "odds":"8 SURE ODDS DAILY"
+       "METHODS": "PAYMENT MODES", 
+       "PAYPAL": "devcentre123@gmail.com" , 
+       "KENYANS ONLY| TILL NO":"8334020"
     },
-   
-    {
-       "name": "STANDARD SURE TIPS", "amount": "Ksh 125" , "odds":"16 SURE ODDS DAILY"
-    },
-    
-    {
-        "name": "MEGA JACKPOT SURE TIPS", "amount": "Ksh 150" , "odds":"12 to 17 CORRECT GAMES"
-     },
-     
      {
-        "name": "PREMIUM SURE TIPS", "amount": "Ksh 250" , "odds":"32 SURE ODDS DAILY"
+        "TILL NO MEMBERSHIP": "AMOUNT", "KSH": "250/=",  "odds":"32 SURE ODDS DAILY"
+     }
+    {
+        "PAYPAL MEMBERSHIP": "AMOUNT", "USD": "$15", "odds":"32 SURE ODDS DAILY"
      }
 ],
-
-"BASIC SURE TIPS":[
-   
-        {
-            "fixture": "Malmö FF – Union Berlin",
-            "prediction": "HOME WIN"
-        },
-        
-        {
-            "fixture": "Sturm Graz – Lazio",
-            "prediction": "AWAY WIN"
-        },
-        
-     {
-            "fixture": "Arsenal – Bodø/Glimt",
-            "prediction": "Home win, Over 1.5"
-        }
-        
-        ],
-         "STANDARD SURE TIPS":[
+ "PREMIUM PREDICTION":[
          {
             "fixture": "Malmö FF – Union Berlin",
-            "prediction": "HOME WIN"
+            "prediction": "XX"
         },
         
         {
             "fixture": "Sturm Graz – Lazio",
-            "prediction": "AWAY WIN"
+            "prediction": "XX"
         },
         
      {
             "fixture": "Arsenal – Bodø/Glimt",
-            "prediction": "Home win, Over 1.5"
+            "prediction": "XX"
         },
         {
             "fixture": "AZ – Apollon Limassol",
-            "prediction": "Over 1.5"
-        }
- ],
- "PREMIUM PREDICTION RESULTS":[
-         {
-            "fixture": "Malmö FF – Union Berlin",
-            "prediction": "HOME WIN"
-        },
-        
-        {
-            "fixture": "Sturm Graz – Lazio",
-            "prediction": "AWAY WIN"
-        },
-        
-     {
-            "fixture": "Arsenal – Bodø/Glimt",
-            "prediction": "Home win, Over 1.5"
-        },
-        {
-            "fixture": "AZ – Apollon Limassol",
-            "prediction": "Over 1.5"
+            "prediction": "XX"
          }
-],
- "MEGA JACKPOT SURE PREDICTIONS":[
+     ],
+ "TELEGRAM CHANNEL":[
          {
-            "GAMES": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
-            "PREDICTIONS": "1,X,2,2,1,X,X,1,2,2,X,1,X,2,2,1,X"
-        
-
-   }
+            "@gekila254": "https://https://t.me/+NPEE9TuJVqc1ZTNk" 
+        }
 ]
-
 }
